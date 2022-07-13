@@ -5,7 +5,7 @@ function Mapa() {
     const latitud = -34.635451985174036;
     const longitud = -58.36474557294668;
   return (
-    <div className="container">
+    <div className="container" style={{display:"flex",justifyContent:"center",marginTop:"5%"}}>
         <GoogleMaps
             apiKey={""}
             style={{height: "800px", width: "740px"}}
