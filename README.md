@@ -1,5 +1,5 @@
-# googleMapAPI
-Follow the steps below to install the project on your pc.
+# Follow the steps below to install the project on your pc.
+
 - Have node js installed (preferably the latest version)
 - At the root of the project, in the terminal, type 'npm install'
 - Once the installation is finished, run the project with "npm run dev"
